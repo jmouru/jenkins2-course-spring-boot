@@ -8,6 +8,7 @@
 		<artifactId>spring-boot-samples</artifactId>
 		<version>1.4.0.RELEASE</version>
 	</parent>
+	<!-- Test -->
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
 	<name>Spring Boot Atmosphere Sample</name>
 	<description>Spring Boot Atmosphere Sample</description>
